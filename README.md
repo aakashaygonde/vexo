@@ -30,8 +30,8 @@ This project focuses on correct Next.js patterns, clean backend logic, and real-
 
 ---
 ## 📸 Preview 
-
-(here goes the image)
+<img src="previews/home-page.jpg" alt="Vexo Homepage" width="600" />
+<img src="previews/after-shorten-preview.jpg" alt="Short URL Page" width="600" />
 
 ---
 
